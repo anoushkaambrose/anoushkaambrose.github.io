@@ -57,3 +57,10 @@ strong {
 	background-size: 550px;
 	background-repeat: repeat-x;
 }
+
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url(http://cdn.pcwallart.com/images/london-at-night-black-and-white-wallpaper-2.jpg);
+  background-size: cover;
+  color: white;
+}
