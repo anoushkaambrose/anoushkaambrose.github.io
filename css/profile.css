@@ -1,5 +1,5 @@
 .profile-picture {
-	max-width: 100%;
+	max-width: 80%;
 }
 
 html {
@@ -57,8 +57,8 @@ strong {
 }
 
 .description {
-	background-image: url("http://cdn.wallpapersafari.com/14/91/8VDYJ4.jpg");
-	background-size: 550px;
+	background-image: url("http://cdn.earthporm.com/wp-content/uploads/2014/08/amazing-trees-17.jpg");
+	background-size: 300px;
 	background-repeat: repeat-x;
 }
 
