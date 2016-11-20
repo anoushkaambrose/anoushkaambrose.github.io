@@ -10,6 +10,10 @@ nav {
 	background-color: #708090;
 }
 
+.navbar {
+	margin-bottom: 0px;
+}
+
 body {
 	background: none;
 	color: black;
@@ -63,4 +67,5 @@ strong {
   background-image: url(http://cdn.pcwallart.com/images/london-at-night-black-and-white-wallpaper-1.jpg);
   background-size: cover;
   color: white;
+  margin-bottom: 0px;
 }
